@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/daldericamarie08/mui-app/static/css/main.468f942d.css",
+    "main.js": "/daldericamarie08/mui-app/static/js/main.9530519f.js",
+    "static/js/453.e5370d52.chunk.js": "/daldericamarie08/mui-app/static/js/453.e5370d52.chunk.js",
+    "static/media/logo.svg": "/daldericamarie08/mui-app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/daldericamarie08/mui-app/index.html",
+    "main.468f942d.css.map": "/daldericamarie08/mui-app/static/css/main.468f942d.css.map",
+    "main.9530519f.js.map": "/daldericamarie08/mui-app/static/js/main.9530519f.js.map",
+    "453.e5370d52.chunk.js.map": "/daldericamarie08/mui-app/static/js/453.e5370d52.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.468f942d.css",
+    "static/js/main.9530519f.js"
+  ]
+}
